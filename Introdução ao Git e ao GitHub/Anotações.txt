@@ -1,0 +1,24 @@
+Comandos básicos para um bom desempenho no terminal (git-bash):
+
+dir - listar arquivs e diretórios (ls para linux);
+cd - entrar nos diretórios;
+cd .. - voltar para base (diretório);
+clear - limpar o terminal (ctrl + l);
+del - remover arquivo (rm para linux);
+rmdir - remover repositório;
+help - ajuda;
+mkdir - criar uma pasta.
+
+O que é o SHAR1?
+Secure Hash Algorithm - Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos Estados Unidos);
+É um algoritmo de encriptação;
+A encriptação gera um conjunto de characteres identificador de 40 dígitos (único) - serve para identificação e segurança.
+
+Objetos Internos no Git:
+
+Blobs
+Trees
+Commits
+
+Chave SSH e Token:
+Forma de estabelecer uma conexão segura e encriptada.
